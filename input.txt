@@ -1,0 +1,7 @@
+shuru
+    ke_liye i = 1 tak 3:
+        chhapo i;
+    dohrao;
+samaapt
+
+
